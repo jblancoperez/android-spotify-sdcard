@@ -1,0 +1,4 @@
+#!/system/bin/sh
+sleep 30
+mount -o bind /storage/extSdCard/spotifyCache/Storage /storage/sdcard0/Android/data/com.spotify.mobile.android.ui/cache/Storage
+
